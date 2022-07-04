@@ -5,4 +5,5 @@ public class Cat {
     private String bread;
     private int age;
     private String high;
+    private  String weight;
 }
